@@ -34,6 +34,10 @@ body > .container {
   padding-left: 15px;
 }
 
+table .table-striped {
+  background-color: #EA80FC;
+}
+
 code {
   font-size: 80%;
 }
